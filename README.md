@@ -520,7 +520,9 @@ train-route-analysis/
 - 📜 Diploma in Information Technology
 - 📊 IBM Data Science Professional Certificate — Coursera
 - 💼 Internship: Sysslan IT Solutions
-- 🔗 [LinkedIn](#) | [GitHub](#)
+- 🔗 [LinkedIn](www.linkedin.com/in/
+vishvi-vishvi-518046360
+) | [GitHub](https://github.com/vishvi31)
 
 > *"My background in English Literature taught me that the best insights — like the best stories — need to be understood by everyone, not just experts. That's the philosophy behind every analysis in this project."*
 
