@@ -64,7 +64,7 @@ No guesswork. No uncertainty. Just data — telling the truth.
 | **Project Title** | Train Route Analysis & Journey Time Prediction |
 | **Organisation** | Sysslan IT Solutions |
 | **Intern** | Vishvi — Data Scientist Intern |
-| **Domain** | Transportation · Data Science · Machine Learning |
+| **Domain** | Data Science |
 | **Algorithm** | Linear Regression |
 | **Dataset** | Indian Railways Stop Records |
 | **Total Records** | 1,86,074 rows |
