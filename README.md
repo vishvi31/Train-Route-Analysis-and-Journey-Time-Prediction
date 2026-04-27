@@ -502,10 +502,12 @@ train-route-analysis/
 
 | Resource | Link |
 |---|---|
-| 📓 Jupyter Notebook | [View Notebook](#) |
-| 📊 Final Dashboard | [View Dashboard](#) |
-| 📄 PDF Presentation | [Download PDF](#) |
-| 🎯 Gamma Presentation | [View Slides](#) |
+| 📓 Jupyter Notebook | [View Notebook](#[Train Route Analysis and Journey Time Prediction .ipynb](https://github.com/user-attachments/files/27120461/Train.Route.Analysis.and.Journey.Time.Prediction.ipynb)
+) |
+| 📊 Final Dashboard | [View Dashboard](#<img width="2339" height="2805" alt="level6_final_dashboard" src="https://github.com/user-attachments/assets/780285b6-6929-4d3b-bc38-2460f8a281ed" />
+) |
+| 📄 PDF Presentation | [Download PDF](#[Train-Route-Analysis-and-Journey-Time-Prediction.pdf](https://github.com/user-attachments/files/27120383/Train-Route-Analysis-and-Journey-Time-Prediction.pdf)
+) |
 | 🔗 LinkedIn Post | [View Post](#) |
 
 ---
