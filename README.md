@@ -508,7 +508,6 @@ train-route-analysis/
 ) |
 | 📄 PDF Presentation | [Download PDF](#[Train-Route-Analysis-and-Journey-Time-Prediction.pdf](https://github.com/user-attachments/files/27120383/Train-Route-Analysis-and-Journey-Time-Prediction.pdf)
 ) |
-| 🔗 LinkedIn Post | [View Post](#) |
 
 ---
 
